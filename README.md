@@ -16,6 +16,7 @@ song/
 ├── main.py
 ├── project.ipynb # For Teststing the code
 │── similar.pkl
-│── data.pkl 
+│── data.pkl
+│── requirements.txt
 └── README.md                # Project documentation
 ```
