@@ -1,7 +1,8 @@
 # Song-Recommendation-System
 
 A Content-Based Filtering song recommendation system that suggests similar songs using TF-IDF and Cosine Similarity. Extended with Spotipy for fetching real-time metadata from Spotify, and a Streamlit frontend for easy interaction.
-![Project Screenshot](./images/homepage.png)
+
+![Project Screenshot](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System/blob/main/SONG%20RECCOMENDATION.png)
 
 ### Approach & Techniques Used
 - Dataset: [Spotify Dataset](https://drive.google.com/uc?id=1YA5XPVjTS-MEYKa71vu7qI9f6gYpD0rv)
