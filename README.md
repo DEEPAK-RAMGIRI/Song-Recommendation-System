@@ -15,8 +15,7 @@ A Content-Based Filtering song recommendation system that suggests similar songs
 song/
 ├── main.py
 ├── project.ipynb # For Teststing the code
-│── similar.pkl
-│── data.pkl
+│── files.md # contains similar.pkl and data.pkl files 
 │── requirements.txt
 └── README.md                # Project documentation
 ```
