@@ -2,7 +2,7 @@
 
 A Content-Based Filtering song recommendation system that suggests similar songs using TF-IDF and Cosine Similarity. Extended with Spotipy for fetching real-time metadata from Spotify, and a Streamlit frontend for easy interaction.
 
-
+**Live Demo** : No live demo yet 😔 but u can run it in local 
 ![Project Screenshot](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System/blob/main/SONG%20RECCOMENDATION.png)
 
 ### Approach & Techniques Used
@@ -14,7 +14,7 @@ A Content-Based Filtering song recommendation system that suggests similar songs
 - Pickle - used for storing processed data and similarity matrices to save computation time.
 - Streamlit - provides a simple web-based frontend for interaction.
 
-👉 get spotify client id & secrets [here](https://developer.spotify.com/)
+get your spotify client id & secrets [here](https://developer.spotify.com/)
 ```plaintext
 song/
 ├── main.py
