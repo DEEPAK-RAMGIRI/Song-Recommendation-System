@@ -1,5 +1,5 @@
-# Song-Recommendation-System
-
+<h1 align="center">  Song-Recommendation-System </h1>
+ 
 A Content-Based Filtering song recommendation system that suggests similar songs using TF-IDF and Cosine Similarity. Extended with Spotipy for fetching real-time metadata from Spotify, and a Streamlit frontend for easy interaction.
 
 **Live Demo** : No live demo yet 😔 but u can run it in local 
